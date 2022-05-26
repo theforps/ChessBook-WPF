@@ -1,0 +1,411 @@
+D:\Apps\Coding\Code\C Sharp\RotTsar\bin\Debug\RotTsar.exe.config
+D:\Apps\Coding\Code\C Sharp\RotTsar\bin\Debug\RotTsar.exe
+D:\Apps\Coding\Code\C Sharp\RotTsar\bin\Debug\RotTsar.pdb
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\MainWindow.g.cs
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\App.g.cs
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\MainWindow.baml
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.g.resources
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.exe
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\RotTsar.pdb
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\TutorialWindow.g.cs
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\TutorialWindow.baml
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\StartWindow.g.cs
+D:\Apps\Coding\Code\C Sharp\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\thefo\Desktop\RotTsar\bin\Debug\RotTsar.exe.config
+C:\Users\thefo\Desktop\RotTsar\bin\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\RotTsar\bin\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\StartWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\TutorialWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\App.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\TutorialWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.g.resources
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RotTsar.pdb
+C:\Users\Aleisder\Downloads\RotTsar\bin\Debug\RotTsar.exe.config
+C:\Users\Aleisder\Downloads\RotTsar\bin\Debug\RotTsar.exe
+C:\Users\Aleisder\Downloads\RotTsar\bin\Debug\RotTsar.pdb
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\KingWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\QueenWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\BishopWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RookWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\KnightWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\PawnWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\StartWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\TutorialWindow.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\App.g.cs
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\KingWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\QueenWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\BishopWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RookWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\KnightWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\PawnWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\TutorialWindow.baml
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.g.resources
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.exe
+C:\Users\Aleisder\Downloads\RotTsar\obj\Debug\RotTsar.pdb
+E:\RotTsar\bin\Debug\RotTsar.exe.config
+E:\RotTsar\bin\Debug\RotTsar.exe
+E:\RotTsar\bin\Debug\RotTsar.pdb
+E:\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+E:\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+E:\RotTsar\obj\Debug\KingWindow.g.cs
+E:\RotTsar\obj\Debug\QueenWindow.g.cs
+E:\RotTsar\obj\Debug\BishopWindow.g.cs
+E:\RotTsar\obj\Debug\RookWindow.g.cs
+E:\RotTsar\obj\Debug\KnightWindow.g.cs
+E:\RotTsar\obj\Debug\PawnWindow.g.cs
+E:\RotTsar\obj\Debug\StartWindow.g.cs
+E:\RotTsar\obj\Debug\TutorialWindow.g.cs
+E:\RotTsar\obj\Debug\App.g.cs
+E:\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+E:\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+E:\RotTsar\obj\Debug\KingWindow.baml
+E:\RotTsar\obj\Debug\QueenWindow.baml
+E:\RotTsar\obj\Debug\BishopWindow.baml
+E:\RotTsar\obj\Debug\RookWindow.baml
+E:\RotTsar\obj\Debug\KnightWindow.baml
+E:\RotTsar\obj\Debug\PawnWindow.baml
+E:\RotTsar\obj\Debug\StartWindow.baml
+E:\RotTsar\obj\Debug\TutorialWindow.baml
+E:\RotTsar\obj\Debug\RotTsar.g.resources
+E:\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+E:\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+E:\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+E:\RotTsar\obj\Debug\RotTsar.exe
+E:\RotTsar\obj\Debug\RotTsar.pdb
+C:\Users\danya\Desktop\RotTsar\bin\Debug\RotTsar.exe.config
+C:\Users\danya\Desktop\RotTsar\bin\Debug\RotTsar.exe
+C:\Users\danya\Desktop\RotTsar\bin\Debug\RotTsar.pdb
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\danya\Desktop\RotTsar\obj\Debug\KingWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\QueenWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\BishopWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RookWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\KnightWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\PawnWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\StartWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\TutorialWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\App.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\danya\Desktop\RotTsar\obj\Debug\KingWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\QueenWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\BishopWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RookWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\KnightWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\PawnWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\TutorialWindow.baml
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.g.resources
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.exe
+C:\Users\danya\Desktop\RotTsar\obj\Debug\RotTsar.pdb
+C:\Users\danya\Desktop\RotTsar\obj\Debug\SettingsWindow.g.cs
+C:\Users\danya\Desktop\RotTsar\obj\Debug\SettingsWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\SettingsWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\SettingsWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\KingWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\QueenWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\BishopWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RookWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\KnightWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\PawnWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\KingWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\QueenWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\BishopWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\RookWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\KnightWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\PawnWindow.baml
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\ItalianWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar\obj\Debug\ItalianWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\bin\Debug\RotTsar.exe.config
+C:\Users\Aleisder\Desktop\RotTsar\bin\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\RotTsar\bin\Debug\RotTsar.pdb
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\KingWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\ItalianWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\QueenWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\BishopWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RookWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\KnightWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\PawnWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\SettingsWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\StartWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\TutorialWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\App.g.cs
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\KingWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\ItalianWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\QueenWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\BishopWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RookWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\KnightWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\PawnWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\SettingsWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\TutorialWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.g.resources
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\RotTsar.pdb
+C:\Users\Aleisder\Desktop\RotTsar\obj\Debug\App.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\bin\Debug\RotTsar.exe.config
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\bin\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\bin\Debug\RotTsar.pdb
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\KingWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\ItalianWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\QueenWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\BishopWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RookWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\KnightWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\PawnWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\SettingsWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\StartWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\TutorialWindow.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\App.g.cs
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\App.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\KingWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\ItalianWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\QueenWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\BishopWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RookWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\KnightWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\PawnWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\SettingsWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\StartWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\TutorialWindow.baml
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.g.resources
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\Co[y\RotTsar\obj\Debug\RotTsar.pdb
+C:\Users\Aleisder\Desktop\RotTsar 1\bin\Debug\RotTsar.exe.config
+C:\Users\Aleisder\Desktop\RotTsar 1\bin\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\RotTsar 1\bin\Debug\RotTsar.pdb
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\Check.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\Checkmate.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\KingWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\ItalianWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\QueenWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\BishopWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RookWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\KnightWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\PawnWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\SettingsWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\StartWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\TutorialWindow.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\App.g.cs
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\App.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\Check.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\Checkmate.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\KingWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\ItalianWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\QueenWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\BishopWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RookWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\KnightWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\PawnWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\SettingsWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\StartWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\TutorialWindow.baml
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.g.resources
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.exe
+C:\Users\Aleisder\Desktop\RotTsar 1\obj\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\RotTsar 1\bin\Debug\RotTsar.exe.config
+C:\Users\thefo\Desktop\RotTsar 1\bin\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\RotTsar 1\bin\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Check.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Checkmate.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\KingWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\QueenWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\BishopWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RookWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\KnightWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\PawnWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\StartWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\TutorialWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\App.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\App.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Check.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Checkmate.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\KingWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\QueenWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\BishopWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RookWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\KnightWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\PawnWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\StartWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\TutorialWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.g.resources
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Improvements\ItalianWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Improvements\SettingsWindow.g.cs
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Improvements\ItalianWindow.baml
+C:\Users\thefo\Desktop\RotTsar 1\obj\Debug\Improvements\SettingsWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\bin\Debug\RotTsar.exe.config
+C:\Users\danya\Desktop\RotTsar 1\bin\Debug\RotTsar.exe
+C:\Users\danya\Desktop\RotTsar 1\bin\Debug\RotTsar.pdb
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Check.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Checkmate.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\KingWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Improvements\ItalianWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\QueenWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\BishopWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RookWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\KnightWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\PawnWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Improvements\SettingsWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\StartWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\TutorialWindow.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\App.g.cs
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\App.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Check.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Checkmate.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\KingWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Improvements\ItalianWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\QueenWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\BishopWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RookWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\KnightWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\PawnWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\Improvements\SettingsWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\StartWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\TutorialWindow.baml
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.g.resources
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.exe
+C:\Users\danya\Desktop\RotTsar 1\obj\Debug\RotTsar.pdb
+E:\RotTsar 1\bin\Debug\RotTsar.exe.config
+E:\RotTsar 1\bin\Debug\RotTsar.exe
+E:\RotTsar 1\bin\Debug\RotTsar.pdb
+E:\RotTsar 1\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+E:\RotTsar 1\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+E:\RotTsar 1\obj\Debug\Check.g.cs
+E:\RotTsar 1\obj\Debug\Checkmate.g.cs
+E:\RotTsar 1\obj\Debug\KingWindow.g.cs
+E:\RotTsar 1\obj\Debug\Improvements\ItalianWindow.g.cs
+E:\RotTsar 1\obj\Debug\QueenWindow.g.cs
+E:\RotTsar 1\obj\Debug\BishopWindow.g.cs
+E:\RotTsar 1\obj\Debug\RookWindow.g.cs
+E:\RotTsar 1\obj\Debug\KnightWindow.g.cs
+E:\RotTsar 1\obj\Debug\PawnWindow.g.cs
+E:\RotTsar 1\obj\Debug\Improvements\SettingsWindow.g.cs
+E:\RotTsar 1\obj\Debug\StartWindow.g.cs
+E:\RotTsar 1\obj\Debug\TutorialWindow.g.cs
+E:\RotTsar 1\obj\Debug\App.g.cs
+E:\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.cache
+E:\RotTsar 1\obj\Debug\RotTsar_MarkupCompile.lref
+E:\RotTsar 1\obj\Debug\App.baml
+E:\RotTsar 1\obj\Debug\Check.baml
+E:\RotTsar 1\obj\Debug\Checkmate.baml
+E:\RotTsar 1\obj\Debug\KingWindow.baml
+E:\RotTsar 1\obj\Debug\Improvements\ItalianWindow.baml
+E:\RotTsar 1\obj\Debug\QueenWindow.baml
+E:\RotTsar 1\obj\Debug\BishopWindow.baml
+E:\RotTsar 1\obj\Debug\RookWindow.baml
+E:\RotTsar 1\obj\Debug\KnightWindow.baml
+E:\RotTsar 1\obj\Debug\PawnWindow.baml
+E:\RotTsar 1\obj\Debug\Improvements\SettingsWindow.baml
+E:\RotTsar 1\obj\Debug\StartWindow.baml
+E:\RotTsar 1\obj\Debug\TutorialWindow.baml
+E:\RotTsar 1\obj\Debug\RotTsar.g.resources
+E:\RotTsar 1\obj\Debug\RotTsar.Properties.Resources.resources
+E:\RotTsar 1\obj\Debug\RotTsar.csproj.GenerateResource.cache
+E:\RotTsar 1\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+E:\RotTsar 1\obj\Debug\RotTsar.exe
+E:\RotTsar 1\obj\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\Chess Reference Book\bin\Debug\RotTsar.exe.config
+C:\Users\thefo\Desktop\Chess Reference Book\bin\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\Chess Reference Book\bin\Debug\RotTsar.pdb
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.csproj.AssemblyReference.cache
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.csproj.SuggestedBindingRedirects.cache
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Check.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Checkmate.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\KingWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Improvements\ItalianWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\QueenWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\BishopWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RookWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\KnightWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\PawnWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Improvements\SettingsWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\StartWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\TutorialWindow.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\App.g.cs
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar_MarkupCompile.cache
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar_MarkupCompile.lref
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\App.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Check.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Checkmate.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\KingWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Improvements\ItalianWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\QueenWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\BishopWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RookWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\KnightWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\PawnWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\Improvements\SettingsWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\StartWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\TutorialWindow.baml
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.g.resources
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.Properties.Resources.resources
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.csproj.GenerateResource.cache
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.exe
+C:\Users\thefo\Desktop\Chess Reference Book\obj\Debug\RotTsar.pdb

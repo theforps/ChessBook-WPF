@@ -1,0 +1,133 @@
+﻿<Page x:Class="RotTsar.Checkmate"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RotTsar.Parties"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="1100"
+      Title="Checkmate">
+
+    <Grid Background="#312d2a" Opacity="100">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.4*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Margin="80" BorderBrush="Sienna" BorderThickness="8,8,8,8" CornerRadius="5" HorizontalAlignment="Stretch">
+            <Grid x:Name="Board" Background="PeachPuff">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Label Content="A" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="B" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="C" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="2" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="D" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="3" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="E" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="4" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="F" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="5" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="G" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="6" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="H" Margin="0 -70 0 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+
+                <Label Content="1" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="2" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="3" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="4" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="5" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="6" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="5" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="7" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="6" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+                <Label Content="8" Margin="0 20 -170 0" FontSize="40" HorizontalAlignment="Center" Grid.Row="7" Grid.Column="7" FontFamily="Arial" FontWeight="Bold" Foreground="Sienna"/>
+            </Grid>
+        </Border>
+
+
+        <Border Grid.Column="0" Margin="80">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid x:Name="queen" Opacity="0" Grid.Row="5" Grid.RowSpan="2" Grid.Column="2" Grid.ColumnSpan="2" Margin="-40 0 20 0">
+                    <Image  Source="Pieces\14.png" IsHitTestVisible="False"/>
+                    <TextBlock Text="Check with the queen" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,63,0,0" FontWeight="Bold" TextAlignment="Center" TextWrapping="Wrap" Width="107" FontSize="15"/>
+                </Grid>
+                <Grid x:Name="queenStep"  Margin="20 0 -40 0" Opacity="0" Grid.Row="1" Grid.RowSpan="2" Grid.Column="5" Grid.ColumnSpan="2">
+                    <Image Source="Pieces\14.png" IsHitTestVisible="False"/>
+                    <TextBlock Text="Put the queen on the same diagonal with the enemy king" HorizontalAlignment="Center" FontSize="14" Margin="0,38,0,88" FontWeight="Bold" TextAlignment="Center" TextWrapping="Wrap" Width="103"/>
+                </Grid>
+                <Grid x:Name="queen2" Opacity="0" Margin="20 0 -40 0" Grid.Row="4" Grid.RowSpan="2" Grid.Column="5" Grid.ColumnSpan="2">
+                    <Image Source="Pieces\14.png" RenderTransformOrigin="0.5,0.5" IsHitTestVisible="False">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                    <TextBlock Text="The queen has taken an advantageous position" HorizontalAlignment="Center" FontSize="14" Margin="0,103,0,38" FontWeight="Bold" TextWrapping="Wrap" TextAlignment="Center" Width="103"/>
+                </Grid>
+                <Grid x:Name="queenStep2" Opacity="0" Grid.Row="2" Margin="-60 0 40 0" Grid.RowSpan="2" Grid.Column="4" Grid.ColumnSpan="2">
+                    <Image Source="Pieces\14.png" RenderTransformOrigin="0.5,0.5" IsHitTestVisible="False">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                    <TextBlock Text="Eliminate the pawn on F2" HorizontalAlignment="Center" FontSize="15" Margin="0,115,0,35" FontWeight="Bold" TextWrapping="Wrap" TextAlignment="Center" Width="90"/>
+                </Grid>
+                <Grid x:Name="kingCheckmate" Margin="20,0,10,0" Opacity="0" Grid.Row="1" Grid.RowSpan="2" Grid.Column="2" Grid.ColumnSpan="3">
+                    <Image Source="Pieces\14.png" RenderTransformOrigin="0.5,0.5" IsHitTestVisible="False">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="-1"/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                    <TextBlock Text="Checkmate has been announced to the King. He can't defend himself. End of the game" HorizontalAlignment="Center" FontSize="12" Margin="0,105,0,20" FontWeight="Bold" TextAlignment="Center" TextWrapping="Wrap" Width="119"/>
+                </Grid>
+            </Grid>
+        </Border>
+
+        <Button Click="Restart_Click" Grid.Column="1" Content="Restart" FontSize="30" Margin="0,80,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Background="Sienna" BorderBrush="#FF312D2A" Foreground="White" FontWeight="Bold" Width="245" Height="64"/>
+        <Border Grid.Column="1" VerticalAlignment="Center" BorderThickness="3" CornerRadius="3" BorderBrush="Sienna" Background="Wheat" MinHeight="500" Margin="10 20 10 0">
+            <TextBlock Text="Mate" FontSize="48" HorizontalAlignment="Center" FontWeight="Bold" Foreground="#FF9A5432" />
+        </Border>
+        <Border Grid.Column="1" VerticalAlignment="Center" MinHeight="500" Margin="10 40 10 0">
+            <TextBlock Text="A situation in chess and other chess games when the king is under the check and the player cannot make a single move to avoid it. The side that received the checkmate is defeated. If the check is not declared to the king, but he and all other pieces of his color cannot make a single move, this is a stalemate, and the result of the game is a draw" FontSize="21" Margin="10 60 10 0"  HorizontalAlignment="Stretch" FontWeight="Bold" Foreground="Sienna" TextAlignment="Center" TextWrapping="Wrap"/>
+        </Border>
+    </Grid>
+</Page>
